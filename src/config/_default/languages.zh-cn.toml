@@ -12,7 +12,7 @@ title = "首页"
   logo = "img/logo.gif"
   secondaryLogo = "img/logo.png"
   description = "I'm Z, A Coder & Musician."
-  copyright = "<span class='inline-block'> Z的枯燥生活 © { year } </span> <a href='https://beian.miit.gov.cn'>粤ICP备2024319385号-1</a></span>."
+  copyright = "<span class='inline-block'> Z的枯燥生活 © { year } </span> <a href='https://beian.miit.gov.cn'>粤ICP备2024319385号</a></span>"
 
 
 [params.author]
